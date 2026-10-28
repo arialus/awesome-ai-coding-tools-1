@@ -51,6 +51,7 @@ Full IDEs and forks built around AI as a first-class feature.
 - [Void](https://voideditor.com/) 🟢 — Open-source Cursor alternative. Bring your own model.
 - [Trae](https://trae.ai/) 💰 — ByteDance's AI IDE with Builder/Chat modes.
 - [PearAI](https://trypear.ai/) 🟢 — Open-source AI editor fork.
+- [Volt](https://github.com/LeulAria/volt) 🟢 🆓 — Open-source agentic workspace on the VS Code core that drives Claude Code, Codex and local Ollama models, with hunk-level review of agent edits and Git checkpoints.
 
 ## In-Editor Assistants & Completion
 
